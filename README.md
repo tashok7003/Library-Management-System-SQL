@@ -66,3 +66,15 @@ This project is designed for:
 
 ---
 
+## 👤 Author
+
+**Ashok**  
+- GitHub: [tashok7003](https://github.com/tashok7003)  
+- LinkedIn: [Connect with me](https://linkedin.com/in/ashok--profile/)  
+- Email: ashokdevamani7003@gmail.com
+
+## 🙏 Acknowledgments
+
+- **Innomatics Research Labs** for guidance and resources
+- **Vishwanath Nyathani, Raghu Ram Aduri, Kanav Bansal, Harsha Mg** for mentorship
+- **Shiksha.com** for the data source
